@@ -1,0 +1,7 @@
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\bin\Debug\Практика 16_1_2.exe.config
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\bin\Debug\Практика 16_1_2.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\bin\Debug\Практика 16_1_2.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\obj\Debug\Практика 16_1_2.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\obj\Debug\Практика 16_1_2.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\obj\Debug\Практика 16_1_2.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практика 16_1_2\Практика 16_1_2\obj\Debug\Практика 16_1_2.pdb
